@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "name": "Kevin Adiputra shianto",
+    "titles": [
+      "Front-end Developer",
+      "Full-stack Developer",
+      "Back-end Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/KevinShianto",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kevin-shianto-81a50a1a6/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "Vue",
+        "class": "devicon-vuejs-plain",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Tailwind",
+        "class": "devicon-tailwindcss-plain",
+        "level": "30"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "60"
+      },
+      {
+        "name": "PHP",
+        "class": "devicon-php-plain",
+        "level": "60"
+      },
+      {
+        "name": "Codeigniter",
+        "class": "devicon-codeigniter-plain",
+        "level": "60"
+      },
+      {
+        "name": "JQuery",
+        "class": "devicon-jquery-plain",
+        "level": "60"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "60"
+      }
+    ]
+  }
+}

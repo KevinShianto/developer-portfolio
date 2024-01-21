@@ -1,0 +1,243 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 I'm Kevin Adiputra Shianto, a passionate front-end developer with versatile skills in full-stack development. My primary focus is on crafting seamless user experiences using ReactJS. Beyond that, I bring proficiency in a range of technologies, including PHP, CodeIgniter, Laravel, Python, and the Frappe Framework. With a keen eye for design and a commitment to clean, efficient code, I strive to bring innovative solutions to every project. Let's collaborate and turn ideas into reality",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Terbaiktronics",
+      "startDate": "2023",
+      "description": "Admin panel for Terbaiktronics, ne of the largest Air Conditioner reseller in Surabaya. The admin panel can create and manage all kinds of transaction, offers to customer, and view sales reports.",
+      "images": ["images/portfolio/terbaiktronics-web/1.png"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Geniebook",
+      "startDate": "2021",
+      "description": "Geniebook is an edutech company which implements AI to improve their customers knowledge and experience. With Geniebook, childrens can working on worksheets, chat with teachers and even attend online courses.",
+      "images": [
+        "images/portfolio/geniebook-web/1.png",
+        "images/portfolio/geniebook-web/2.png",
+        "images/portfolio/geniebook-web/3.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "TailwindCSS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        }
+      ]
+    },
+    {
+      "title": "Kemanayo Apps",
+      "startDate": "2021",
+      "description": "Kemanayo apps is an application for tourist or domestic adventurer looking for a brand new memorable adventure. Not only buying a trip, but customer can also make a trip and earn money.",
+      "images": [
+        "images/portfolio/kemanayo-mobile/1.png",
+        "images/portfolio/kemanayo-mobile/2.png",
+        "images/portfolio/kemanayo-mobile/3.png",
+        "images/portfolio/kemanayo-mobile/4.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-swift-plain",
+          "name": "Swift"
+        }
+      ]
+    },
+    {
+      "title": "Titan Web",
+      "startDate": "2020",
+      "description": "The Titan E-Commerce website is a website that sells motorcycle parts. Like any regular e-commerce website, customers can buy goods from the Titan Store, add items to wishlists, review products, and also track orders.",
+      "images": [
+        "images/portfolio/titan-web/1.png",
+        "images/portfolio/titan-web/2.png",
+        "images/portfolio/titan-web/3.png",
+        "images/portfolio/titan-web/4.png",
+        "images/portfolio/titan-web/5.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Roxy",
+      "startDate": "2020",
+      "description": "Develop a Point of Sale web for Roxy Pharmacy based on Frappe Framework. The POS also had some custom made tools to help cashiers input doctor's prescriptions more easily.",
+      "images": [
+        "images/portfolio/roxy-web/1.png",
+        "images/portfolio/roxy-web/2.png",
+        "images/portfolio/roxy-web/3.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        }
+      ]
+    },
+    {
+      "title": "Mal Ciputra Jakarta Apps",
+      "startDate": "2020",
+      "description": "The Ciputra Mall application is an application for customers at Ciputra Mall Jakarta. The app will save customer points after they shop and can be used to buy promo coupons. The application also provides information such as current or upcoming events, tenant locations, and promotions",
+      "images": [
+        "images/portfolio/ciputra-mobile/1.png",
+        "images/portfolio/ciputra-mobile/2.png",
+        "images/portfolio/ciputra-mobile/3.png",
+        "images/portfolio/ciputra-mobile/4.png",
+        "images/portfolio/ciputra-mobile/5.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-swift-plain",
+          "name": "Swift"
+        }
+      ]
+    },
+    {
+      "title": "Wijaya Super Store",
+      "startDate": "2019",
+      "description": "WSS or Wijaya Super Store is an E-Commerce website specially designed for Sellers. WSS helps clients to expand their sales nationwide.",
+      "images": [
+        "images/portfolio/wss-web/1.png",
+        "images/portfolio/wss-web/2.png",
+        "images/portfolio/wss-web/3.png",
+        "images/portfolio/wss-web/4.png",
+        "images/portfolio/wss-web/5.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "VueJS"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        }
+      ]
+    },
+    {
+      "title": "Ark.NET",
+      "startDate": "2019",
+      "description": "The Ark.NET website is a website for the Church to monitor their followers and events. Ark.NET can also be used for weekly prayer attendance.",
+      "images": [
+        "images/portfolio/arknet-mobile/1.png",
+        "images/portfolio/arknet-mobile/2.png",
+        "images/portfolio/arknet-mobile/3.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "VueJS"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "PT. Geniebook Indonesia Software Service",
+      "title": "Software Engineer Tier III",
+      "years": "07.2021 - present",
+      "mainTech": ["ReactJS", "CodeIgniter"],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "ReactJS",
+        "Typescript",
+        "PHP",
+        "CodeIgniter 2",
+        "CSS",
+        "Tailwind",
+        "Micro Front-end"
+      ],
+      "icon": "fa-react"
+    },
+    {
+      "company": "PT. Digital Asia Solusindo",
+      "title": "Web & iOS Developer",
+      "years": "02.2019 - 07.2021",
+      "mainTech": ["Swift", "VueJS", "Frappe Framework"],
+      "technologies": [
+        "Python",
+        "Frappe Framework",
+        "JavaScript",
+        "Django",
+        "Swift",
+        "Kotlin",
+        "VueJS",
+        "CSS",
+        "QuasarJS"
+      ],
+      "icon": "fa-vuejs"
+    }
+  ]
+}
