@@ -9,13 +9,13 @@
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/KevinShianto",
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kevin-shianto-81a50a1a6/",
+        "class": "fab fa-linkedin"
       }
     ],
     "image": "myProfile.jpg"
