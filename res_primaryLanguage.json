@@ -11,9 +11,30 @@
   },
   "projects": [
     {
+      "title": "Creative Coding House",
+      "startDate": "2024",
+      "description": "A minimalist and professional landing pages for SaaS starter business. With SEO and Google Analytics to help your business trends.",
+      "images": [
+        "images/portfolio/cch-web/Home.png",
+        "images/portfolio/cch-web/Home-2.png",
+        "images/portfolio/cch-web/Home-3.png"
+      ],
+      "url": "https://creativecodinghouse.my.id",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "NextJS"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind"
+        }
+      ]
+    },
+    {
       "title": "Terbaiktronics",
       "startDate": "2023",
-      "description": "Admin panel for Terbaiktronics, ne of the largest Air Conditioner reseller in Surabaya. The admin panel can create and manage all kinds of transaction, offers to customer, and view sales reports.",
+      "description": "Admin panel for Terbaiktronics, one of the largest Air Conditioner reseller in Surabaya. The admin panel can create and manage all kinds of transaction, offers to customer, and view sales reports.",
       "images": ["images/portfolio/terbaiktronics-web/1.png"],
       "url": "",
       "technologies": [

@@ -11,6 +11,27 @@
   },
   "projects": [
     {
+      "title": "Creative Coding House",
+      "startDate": "2024",
+      "description": "Landing page minimalis dan profesional untuk bisnis startup SaaS. Dilengkapi dengan SEO dan Google Analytics untuk membantu melacak tren bisnis Anda.",
+      "images": [
+        "images/portfolio/cch-web/Home.png",
+        "images/portfolio/cch-web/Home-2.png",
+        "images/portfolio/cch-web/Home-3.png"
+      ],
+      "url": "https://creativecodinghouse.my.id",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "NextJS"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "Tailwind"
+        }
+      ]
+    },
+    {
       "title": "Terbaiktronics",
       "startDate": "2023",
       "description": "Panel admin Terbaiktronics, salah satu reseller AC terbesar di Surabaya. Panel admin dapat membuat dan mengelola segala jenis transaksi, penawaran kepada pelanggan, dan melihat laporan penjualan.",
