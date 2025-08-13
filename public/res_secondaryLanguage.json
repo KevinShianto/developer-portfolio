@@ -225,9 +225,27 @@
   ],
   "experience": [
     {
+      "company": "HiveMinds LLC.",
+      "title": "Software Engineer Tier III",
+      "years": "06.2025 - present",
+      "mainTech": ["ReactJS", "NextJS", "Supabase"],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "ReactJS",
+        "Typescript",
+        "CSS",
+        "Tailwind",
+        "Supabase",
+        "Hosting",
+        "Flutter"
+      ],
+      "icon": "fa-react"
+    },
+    {
       "company": "PT. Geniebook Indonesia Software Service",
       "title": "Software Engineer Tier III",
-      "years": "07.2021 - sekarang",
+      "years": "07.2021 - 06.2025",
       "mainTech": ["ReactJS", "CodeIgniter"],
       "technologies": [
         "REST API",
